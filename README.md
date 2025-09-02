@@ -1,4 +1,4 @@
-# Analysis of Stability and Governance in Centralized and Decentralized Stablecoins: A Comparative Study of USDT and DAI
+# Analysis of Centralized and Decentralized Stablecoins: A Comparative Study of USDT and DAI
 
 This repository contains the code used for the implementation of the Master’s Thesis (TFM) at the Faculty of Computer Science, Complutense University of Madrid (UCM).
 
