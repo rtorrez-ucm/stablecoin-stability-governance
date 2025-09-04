@@ -108,5 +108,5 @@ This project is released under the **MIT License**. See [`LICENSE`](./LICENSE).
 For questions about replication or artifacts, please open an issue in this repository.
 
 ## Author
-**Rommel Torrez Huanca, Master’s Thesis (TFM), Complutense University of Madrid, 2025.**
+Rommel Torrez Huanca, Master’s Thesis (TFM), Complutense University of Madrid, 2025.
 
